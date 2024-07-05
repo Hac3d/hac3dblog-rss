@@ -4,6 +4,7 @@
     <title>Hac3dBlog &gt; Recent</title>
     <link>https://www.hac3d.com/?cfdone</link>
     <atom:link href="https://www.hac3d.com/rss/default.xml" rel="self" type="application/rss+xml"></atom:link>
+	<atom:icon>https://raw.githubusercontent.com/Hac3d/hac3dblog-rss/main/images/icon.ico</atom:icon>
     <description></description>
     <language>en-us</language>
     <copyright>Hac3d's Blog, duh.</copyright>
@@ -11,7 +12,7 @@
     <pubDate>Fri, 05 Jul 2024 21:11:07 +0000</pubDate>
     <image>
       <title>Hac3dBlog &gt; Recent</title>
-      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <url>https://raw.githubusercontent.com/Hac3d/hac3dblog-rss/main/images/icon.ico</url>
       <link>https://www.hac3d.com/?cfdone</link>
     </image>
     <item>
