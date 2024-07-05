@@ -90,5 +90,32 @@ Hac3d</description>
   <media:description>Yes, I know I travelled back in time, But this is important lol. I had to move the site URL since the API re-write broke the domain to piec...</media:description>
 </item>
 
+<item>
+  <title>RSS support?! -- A blog about updates to the blog</title>
+  <link>https://www.hac3d.com/article/rss-support</link>
+  <guid isPermaLink="true">https://www.hac3d.com/article/rss-support</guid>
+  <atom:link href="https://www.hac3d.com/article/rss-support" rel="standout"></atom:link>
+  <description>Yes, I know I travelled back in time, again, But this is also important lol. I also stole that from the moving post, haha. I've added RSS to the blog cuz people wanted it.
+
+Many of you have been asking for RSS support for a while now, and I'm happy to announce that it's finally here! You can now subscribe to the blog's RSS feed and get updates delivered straight to your feed reader of choice. This should make it a lot easier to keep up with the latest posts, especially if you prefer using an RSS reader over checking the site manually.
+
+To subscribe, just add this URL to your RSS reader: https://www.hac3d.com/rss. It's that simple! 
+
+In addition to RSS support, I've made a few other minor improvements to the site based on your feedback. The navigation is now more intuitive, and the loading times should be faster, becuz I upgraded the server.
+
+As always, I appreciate your continued support and feedback. If you have any other suggestions or requests, feel free to drop a comment or reach out to me directly.
+
+The RSS feed can be accessed on github here: https://hac3d.github.io/hac3dblog-rss/recent.xml
+thx for the support :)
+
+Stay meme-tastic,
+Hac3d</description>
+  <pubDate>Fri, 05 Jul 2024 08:00:00 +0000</pubDate>
+  <category domain="">Posted by: Hac3d (real) On: July 5, 2024</category>
+  <media:credit>Hac3d</media:credit>
+  <media:description>Yes, I know I travelled back in time, again, But this is also important lol. I also stole that from the moving post, haha. I've added RSS to the blog cuz people wanted it...</media:description>
+</item>
+
+
   </channel>
 </rss>
